@@ -23,20 +23,25 @@ ICU-EDA-MIMIC-IV/
 
 ---
 
-## 🎯 Research Questions
+## 🎯 Research Questions & Findings
+
 1. **Top Diagnoses**  
-   - Which diagnoses are most frequent among ICU patients?  
-   - Analysis performed using diagnosis codes and clinical descriptions.  
-   - Visualized with bar plots showing the top 10 diagnoses.
+   - **Question**: Which diagnoses are most frequent among ICU patients?  
+   - **Answer**: The most frequent diagnoses include **Hypertension, Hyperlipidemia, Acute Kidney Failure, Esophageal Reflux, and Anemia**.  
+   - **Insight**: Chronic conditions like hypertension and lipid disorders dominate ICU admissions, highlighting the heavy burden of cardiovascular and metabolic diseases.
 
 2. **Prescription Patterns**  
-   - What are the most commonly prescribed drugs across the top diagnoses?  
-   - Drug frequencies analyzed and visualized using a **heatmap** for clear comparison.
+   - **Question**: What are the most commonly prescribed drugs across the top diagnoses?  
+   - **Answer**: The most prescribed medications include **antihypertensives, statins, and drugs for reflux treatment**.  
+   - **Insight**: The prescription data aligns strongly with the top diagnoses, suggesting treatment patterns that directly target the chronic conditions identified above.
 
 3. **Length of Stay (LOS)**  
-   - How does the **Length of Stay** vary across diagnoses and DRG codes?  
-   - Calculated LOS from admission/discharge timestamps.  
-   - Visualized using **boxplots** and **statistical summaries (mean, median, std)**.
+   - **Question**: How does the **Length of Stay** vary across diagnoses and DRG codes?  
+   - **Answer**: LOS varied significantly:  
+     - Patients with **Acute Kidney Failure** and **Anemia** had much longer ICU stays on average.  
+     - Certain DRG codes (e.g., 710, 871) were associated with longer median stays (>12 days).  
+   - **Insight**: LOS is not evenly distributed; specific diagnoses and DRGs predict extended ICU utilization, which has implications for resource planning.
+
 
 ---
 
