@@ -63,9 +63,8 @@ ICU-EDA-MIMIC-IV/
 ---
 
 ## 📑 Report
-The full PDF report is available in:  
-[Zampakos_Christos_0096 - Colab.pdf](https://github.com/mbakos95/ICU-EDA-with-MIMIC-IV/blob/main/reports/Zampakos_Christos_0096%20-%20Colab.pdf)
-
+The full PDF report is available here:  
+[📄 Zampakos_Christos_0096 - Colab.pdf](https://github.com/mbakos95/ICU-EDA-with-MIMIC-IV/blob/main/Zampakos_Christos_0096%20-%20Colab.pdf)
 
 
 ---
