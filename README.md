@@ -66,9 +66,15 @@ The full PDF report is available in:
 
 ## 📈 Example Visualizations
 
-* **Top 10 Diagnoses** (Bar Chart)
-* **Drug Prescriptions Across Diagnoses** (Heatmap)
-* **Length of Stay by Diagnosis and DRG** (Boxplots)
+- **Top 10 Diagnoses**  
+  ![Top 10 Diagnoses](https://github.com/mbakos95/ICU-EDA-with-MIMIC-IV/blob/main/Top%2010%20Diagnoses%20(Bar%20Chart).png)
+
+- **Drug Prescriptions Across Diagnoses (Heatmap)**  
+  ![Drug Prescriptions Heatmap](https://github.com/mbakos95/ICU-EDA-with-MIMIC-IV/blob/main/Drug%20Prescriptions%20Across%20Diagnoses%20(Heatmap).png)
+
+- **Length of Stay by Diagnosis and DRG (Boxplots)**  
+  ![LOS by Diagnosis and DRG](https://github.com/mbakos95/ICU-EDA-with-MIMIC-IV/blob/main/Length%20of%20Stay%20by%20Diagnosis%20and%20DRG%20(Boxplots).png)
+
 
 ---
 
